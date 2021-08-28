@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/screens/chat/chat_screen.dart';
-import 'package:untitled/screens/welcome/welcome_screen.dart';
-import 'package:untitled/theme.dart';
+import 'package:amazingchatapp/screens/chat/chat_screen.dart';
+import 'package:amazingchatapp/screens/welcome/welcome_screen.dart';
+import 'package:amazingchatapp/theme.dart';
 
 void main() {
   runApp(MyApp());
