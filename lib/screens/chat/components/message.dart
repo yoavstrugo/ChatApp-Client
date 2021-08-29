@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
-import 'package:untitled/models/message_model.dart';
+import 'package:amazingchatapp/constants.dart';
+import 'package:amazingchatapp/models/message_model.dart';
 
 enum MessageDirection { RIGHT, LEFT }
 

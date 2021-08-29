@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:untitled/global.dart';
-import 'package:untitled/models/message_model.dart';
+import 'package:amazingchatapp/global.dart';
+import 'package:amazingchatapp/models/message_model.dart';
 
 class ChatClient {
   Socket? _socket;

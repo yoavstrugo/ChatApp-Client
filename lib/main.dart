@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:amazingchatapp/screens/chat/chat_screen.dart';
 import 'package:amazingchatapp/screens/welcome/welcome_screen.dart';
 import 'package:amazingchatapp/theme.dart';
 

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
-import 'package:untitled/global.dart';
-import 'package:untitled/models/message_model.dart';
-import 'package:untitled/screens/chat/components/chat_input_field.dart';
-import 'package:untitled/screens/chat/components/message.dart';
-import 'package:untitled/screens/chat/components/message_view.dart';
-import 'package:untitled/screens/error/error_screen.dart';
-import 'package:untitled/screens/settings/settings_screen.dart';
+import 'package:amazingchatapp/constants.dart';
+import 'package:amazingchatapp/global.dart';
+import 'package:amazingchatapp/models/message_model.dart';
+import 'package:amazingchatapp/screens/chat/components/chat_input_field.dart';
+import 'package:amazingchatapp/screens/chat/components/message.dart';
+import 'package:amazingchatapp/screens/chat/components/message_view.dart';
+import 'package:amazingchatapp/screens/error/error_screen.dart';
+import 'package:amazingchatapp/screens/settings/settings_screen.dart';
 
 class ChatScreen extends StatefulWidget {
   ChatScreen({Key? key, required this.title, this.back = true});

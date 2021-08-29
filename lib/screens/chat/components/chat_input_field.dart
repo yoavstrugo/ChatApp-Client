@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
+import 'package:amazingchatapp/constants.dart';
 
 class ChatInputField extends StatelessWidget {
   ChatInputField({Key? key, required this.onSend, this.onOpen});

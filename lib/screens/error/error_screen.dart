@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
-import 'package:untitled/screens/components/simple_button.dart';
-import 'package:untitled/screens/setupIP/setup_ip_screen.dart';
+import 'package:amazingchatapp/constants.dart';
+import 'package:amazingchatapp/screens/components/simple_button.dart';
+import 'package:amazingchatapp/screens/setupIP/setup_ip_screen.dart';
 
 class ErrorScreen extends StatelessWidget {
   const ErrorScreen(

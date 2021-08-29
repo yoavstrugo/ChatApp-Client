@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
-import 'package:untitled/global.dart';
-import 'package:untitled/screens/components/simple_button.dart';
-import 'package:untitled/screens/components/simple_textfield.dart';
-import 'package:untitled/screens/setupIP/setup_ip_screen.dart';
+import 'package:amazingchatapp/constants.dart';
+import 'package:amazingchatapp/global.dart';
+import 'package:amazingchatapp/screens/components/simple_button.dart';
+import 'package:amazingchatapp/screens/components/simple_textfield.dart';
+import 'package:amazingchatapp/screens/setupIP/setup_ip_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
   final TextEditingController textEditingController = TextEditingController();

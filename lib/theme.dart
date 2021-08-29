@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/constants.dart';
+import 'package:amazingchatapp/constants.dart';
 
 ThemeData lightThemeData(BuildContext context) {
   return ThemeData.light().copyWith(

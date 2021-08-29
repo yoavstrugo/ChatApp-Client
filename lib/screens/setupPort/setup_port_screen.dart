@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
-import 'package:untitled/screens/components/simple_button.dart';
-import 'package:untitled/screens/components/simple_textfield.dart';
-import 'package:untitled/global.dart';
-import 'package:untitled/screens/components/texticon_button.dart';
-import 'package:untitled/screens/error/error_screen.dart';
-import 'package:untitled/screens/successfullyConnected/successfully_connected_screen.dart';
+import 'package:amazingchatapp/constants.dart';
+import 'package:amazingchatapp/screens/components/simple_button.dart';
+import 'package:amazingchatapp/screens/components/simple_textfield.dart';
+import 'package:amazingchatapp/global.dart';
+import 'package:amazingchatapp/screens/components/texticon_button.dart';
+import 'package:amazingchatapp/screens/error/error_screen.dart';
+import 'package:amazingchatapp/screens/successfullyConnected/successfully_connected_screen.dart';
 
 class SetupPortScreen extends StatelessWidget {
   SetupPortScreen({Key? key, this.back = true});

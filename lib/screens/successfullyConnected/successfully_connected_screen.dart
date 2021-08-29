@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/constants.dart';
-import 'package:untitled/screens/components/simple_button.dart';
-import 'package:untitled/screens/setupName/setup_name_screen.dart';
+import 'package:amazingchatapp/constants.dart';
+import 'package:amazingchatapp/screens/components/simple_button.dart';
+import 'package:amazingchatapp/screens/setupName/setup_name_screen.dart';
 
 class SuccessfullyConnectedScreen extends StatelessWidget {
   SuccessfullyConnectedScreen({Key? key, this.back = true});

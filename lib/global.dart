@@ -1,5 +1,5 @@
-import 'package:untitled/client.dart';
-import 'package:untitled/models/server_model.dart';
+import 'package:amazingchatapp/client.dart';
+import 'package:amazingchatapp/models/server_model.dart';
 
 class Global {
   static final Global _global = Global._internal();

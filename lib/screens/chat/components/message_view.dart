@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:untitled/screens/chat/components/message.dart';
+import 'package:amazingchatapp/screens/chat/components/message.dart';
 
 class MessageView extends StatelessWidget {
   final List<Message> messages;
