@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 
 const primaryColor = Color(0xFFFFFFFF);
@@ -12,3 +11,5 @@ const secondaryTextColor = Color(0xFF000000);
 final dateFormat = DateFormat("HH:mm");
 
 var fontFamily = "Segoe UI";
+
+const IconData appIcon = IconData(0xe800, fontFamily: 'My Icons');

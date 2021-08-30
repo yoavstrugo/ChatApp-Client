@@ -110,7 +110,7 @@ AppBar buildAppBar(var title, var context) {
     automaticallyImplyLeading: false,
     leading: IconButton(
       icon: Icon(
-        Icons.arrow_back_ios,
+        Icons.close,
         size: 30,
       ),
       onPressed: () => Navigator.pop(context),

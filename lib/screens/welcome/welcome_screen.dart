@@ -15,15 +15,15 @@ class WelcomeScreen extends StatelessWidget {
             SizedBox(
               width: double.infinity,
             ),
-            Text('Welcome to the',
+            Text('Welcome to',
                 textAlign: TextAlign.center,
                 style: Theme.of(context)
                     .textTheme
-                    .headline5!
+                    .headline6!
                     .copyWith(fontWeight: FontWeight.w700)),
-            Text('AMAZING CHAT APP',
+            Text('TAWKI',
                 textAlign: TextAlign.center,
-                style: Theme.of(context).textTheme.headline4!.copyWith(
+                style: Theme.of(context).textTheme.headline3!.copyWith(
                     fontWeight: FontWeight.w900, color: secondaryColor)),
             SizedBox(
               height: 15,

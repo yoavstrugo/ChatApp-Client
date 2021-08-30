@@ -83,6 +83,9 @@ flutter:
         - asset: 'fonts/seguibl.ttf'
           style: normal
           weight: 900
+    - family: 'My Icons'
+      fonts:
+        - asset: fonts/myicons.ttf
       
   #
   # For details regarding fonts from package dependencies,

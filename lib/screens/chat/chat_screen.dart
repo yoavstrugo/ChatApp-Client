@@ -115,7 +115,7 @@ AppBar buildAppBar(var title, var context) {
     automaticallyImplyLeading: false,
     leading: IconButton(
       icon: Icon(
-        Icons.settings,
+        appIcon,
         size: 30,
       ),
       onPressed: () => Navigator.push(
